@@ -13,7 +13,7 @@ namespace Workaround
             Person person1 = new Person();
             person1.FirstName = "Türker";
             person1.LastName = "Karaoğlu";
-            person1.NationalIdentity =49211111111  ;
+            person1.NationalIdentity =29211111111  ;
             person1.DateOfBirthYear = 1996;
 
             PttManager pttManager = new PttManager(new PersonManager());
